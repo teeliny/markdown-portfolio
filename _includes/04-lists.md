@@ -1,1 +1,11 @@
 Replace this with a list of your favorite things.
+- Favorite Books
+- [ ] Plans, Purposes and Pursuits
+- [ ] The Art of Prayer
+- [ ] Sit, Walk and Stand
+- [ ] Rich Dad and Poor Dad
+- Fovourites Languages
+- [ ] Javascript
+- [ ] Python
+- [ ] Php
+- [ ] React
